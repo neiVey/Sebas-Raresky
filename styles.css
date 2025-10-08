@@ -1,0 +1,38 @@
+body{background-color: #EDEDAD;}
+h1{color:#032E30; 
+	font-family: Helvetica;
+	font-size: 60px;
+	text-align: center;}
+
+p{color: #032E30;
+  font-family: Apple Chancery;
+  background-color: #EBE4B7;
+  text-align: center; }
+
+  img{border-style: Apple;
+  	border-width: 20px;
+  	margin: auto;
+  	display: block;}
+
+ul{font-family: Apple Chancery;
+	display: block;
+	margin-top: 1%;
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #EBE4B7;
+	color: #032E30;
+	border-width: 20px;
+	border: 20px;
+	list-style: none;}
+
+a:hover{color: #032E30;
+	font-size: 30px;
+	border-width: 15px;
+	font-family: Apple Chancery;
+	display: block;}
+
+iframe{border-style: Apple;
+  	border-width: 10px;
+  	margin: auto;
+  	display: block;
+  	border-color: lightyellow;}
